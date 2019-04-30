@@ -1,0 +1,17 @@
+p {
+  color: #0000FF;
+  text-decoration:line-through;
+}
+h1, h2 {
+  background-color: gray;
+}
+h1 {
+color: #008000;
+text-transform: uppercase;
+}
+h2 {
+  text-decoration: underline;
+}
+body{
+font-family: sans-serif;
+}
